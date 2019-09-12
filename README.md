@@ -1,0 +1,2 @@
+# Libft
+libc.h 
